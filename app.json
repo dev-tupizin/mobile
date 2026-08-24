@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "projeto",
+    "slug": "projeto",
+    "scheme": "projeto",
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}

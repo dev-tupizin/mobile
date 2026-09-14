@@ -4,7 +4,8 @@
     "slug": "projeto",
     "scheme": "projeto",
     "plugins": [
-      "expo-router"
+      "expo-router",
+      "expo-status-bar"
     ],
     "experiments": {
       "typedRoutes": true
